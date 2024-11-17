@@ -1,0 +1,9 @@
+{
+    "singleQuote": true,
+    "endOfLine": "crlf",
+
+    "plugins": [
+        "prettier-plugin-organize-imports",
+        "prettier-plugin-tailwindcss"
+    ]
+}
